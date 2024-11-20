@@ -39,10 +39,10 @@ function render(variables = {}) {
           <h3>${variables.country || "Spain,"} ${variables.city ||
     "Barcelona"}</h3>
           <ul class="${variables.socialMediaPosition}">
-            <li><a href="https://twitter.com/4geeksacademy"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="https://github.com/4geeksacademy"><i class="fab fa-github"></i></a></li>
-            <li><a href="https://linkedin.com/school/4geeksacademy"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="https://instagram.com/4geeksacademy"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="https://x.com/Albanta22"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="https://github.com/Albanta22"><i class="fab fa-github"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/albanta-leon-delgado-521407316/"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="https://www.instagram.com/baine22/"><i class="fab fa-instagram"></i></a></li>
           </ul>
         </div>
     `;
